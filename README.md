@@ -1,15 +1,10 @@
-<div align="center">
-<img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 100%" />
-</div>  
-  
-
-### <div align="center">I'm Nataly, a full-time full-stack developer from Brazil 👨‍💻 coding since 2015 🚀</div>  
+### <div align="center">I'm Nataly, a full-time back-end developer from Brazil 👨‍💻 coding since 2015 🚀</div>  
   
 
 - 🔭 I’m currently open to new oportunities  
   
 
-- 🌱 I’m currently learning Spring and Hibernate  
+- 🌱 I’m currently learning Java Frameworks and PHP  
   
 
 - ⚡ Tools I use: JAVA/REACT/HTML/CSS/JS  
@@ -25,13 +20,10 @@
 
 ### Frontend  
 <div align="center">  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="50" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="50" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="50" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/bootstrap-plain.svg" alt="Bootstrap" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mysql-original-wordmark.svg" alt="MySQL" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/rails-original-wordmark.svg" alt="Ruby on Rails" height="50" />  
 </div>
 
 </td><td valign="top" width="33%">
@@ -43,6 +35,8 @@
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" alt="Linux" height="50" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/java-original-wordmark.svg" alt="Java" height="50" />  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mysql-original-wordmark.svg" alt="MySQL" height="50" />
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/php-original.svg" alt="PHP" height="50" />  
 </div>
 
 </td><td valign="top" width="33%">
