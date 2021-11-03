@@ -1,13 +1,9 @@
-### <div align="center">I'm Nataly, a full-time back-end developer from Brazil 👨‍💻 coding since 2015 🚀</div>  
+### <div align="center">Full-time back-end developer from Brazil 👨‍💻 coding since 2015 🚀</div>  
   
 
-- 🔭 I’m currently open to new oportunities  
-  
+- 🔭 I’m currently open to new oportunities    
 
-- 🌱 I’m currently learning Java Frameworks and PHP  
-  
-
-- ⚡ Tools I use: JAVA/REACT/HTML/CSS/JS  
+- 🌱 I’m currently learning Java Frameworks and PHP   
   
 
 <br/>  
