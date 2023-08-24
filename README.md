@@ -7,7 +7,7 @@ With an insatiable curiosity for technology. </p>
 <a href = "mailto:">
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="left" alt="Computador iuriCode"></a>
 </div> 
-<br><br><br><br><br><br><br><br><br><br><br><br><br>
+<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
 
 ## Connect with me
 <a href="https://linkedin.com/in/nataly-martins" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="teste" height="30" width="40" /></a>
