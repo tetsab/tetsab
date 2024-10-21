@@ -1,9 +1,8 @@
 # Hello world!
 
 <div> 	
-<p> Backend programmer, from Brazil. 
-Graduated in Computing Science.
-With an insatiable curiosity for technology. </p>
+<p> Backend programmer.
+Passionate about technology. </p>
 <a href = "mailto:">
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="left" alt="Computador iuriCode"></a>
 </div> 
